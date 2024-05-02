@@ -3,6 +3,8 @@
 # Project Title: Cryptocurrency Tracking Dashboard
 
 https://crypto-tracker-vert-phi.vercel.app/
+
+
 Description:
 This project aims to create a cryptocurrency tracking dashboard that provides users with real-time data on the value and market movements of various cryptocurrencies. It will leverage a public API to fetch the necessary information and present it in an intuitive and user-friendly interface.
 
